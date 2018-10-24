@@ -50,15 +50,19 @@ title: Books to Read for Programmers
 - [Amazon Smile](https://smile.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397?pldnSite=1)
 - ISBN-13: 9781617292392
 
+*Working Effectively with Legacy Code * - Michael C. Feathers
+- [Amazon Smile](https://smile.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397?pldnSite=1)
+- ISBN-13: 9781617292392
+
 ## Algorithms
 
 *Introduction to Algorithms, 3rd Edition (MIT Press)* by Thomas H. Cormen and Charles E. Leiserson
-- [Amazon Smile](https://smile.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/)
+- [Amazon Smile](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/ref=sr_1_1)
 - ISBN-13: 978-0262033848
 
 *Cracking the Coding Interview: 150 Programming Questions and Solutions* by Gayle Laakmann McDowell 
 - [Amazon Smile](https://smile.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
-- ISBN-13: 978-0984782802
+- ISBN-13: 978-0131177055
 
 ## BASH
 
